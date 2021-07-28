@@ -1,6 +1,6 @@
-Title: The Meditations of Marcus Aurelius 
-Author: Gregory Hays 
-Year: ----  
+Title: The Meditations of Marcus Aurelius  
+Author: Gregory Hays  
+Year: 9999  
 Language: English  
 
 Two roads diverged in a yellow wood,  
