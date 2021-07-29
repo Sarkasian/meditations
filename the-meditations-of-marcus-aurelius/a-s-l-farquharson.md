@@ -1,6 +1,6 @@
 Title: The Meditations of Marcus Aurelius  
 Author: Arthur Farquharson  
-Year: 1944    
+Year: 1944  
 
 From my grandfather Verus: the lessons of noble character and even temper.
 
