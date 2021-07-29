@@ -1,4 +1,4 @@
-Title: The Meditations of Marcus Aurelius  
+Title: THE MEDITATIONS OF THE EMPEROR MARCUS ANTONINUS  
 Author: Arthur Farquharson  
 Year: 1944  
 
