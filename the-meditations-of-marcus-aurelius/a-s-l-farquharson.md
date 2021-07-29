@@ -1,7 +1,7 @@
-Title: The Road Not Taken    
-Author: Robert Frost    
-Year: 1916    
-Language: English    
+Title: The Road Not Taken  
+Author: Robert Frost  
+Year: 1916  
+Language: English  
 
 From my grandfather Verus: the lessons of noble character and even temper. 
 
