@@ -122,6 +122,12 @@ contribution to the discussion—and insert the right
 expression, unobtrusively.
 
 ---
+FRONTO
+To recognize the malice, cunning, and hypocrisy that power
+produces, and the peculiar ruthlessness often shown by
+people from “good families".
+
+---
 ALEXANDER THE PLATONIST
 
 Not to be constantly telling people (or writing them) that I’m
