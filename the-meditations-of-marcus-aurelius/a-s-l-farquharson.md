@@ -1,4 +1,4 @@
-Title: The Meditations of Marcus Aurelius    
+Title: The Road Less Taken    
 Author: Robert Frost    
 Year: 1916    
 Language: English    
