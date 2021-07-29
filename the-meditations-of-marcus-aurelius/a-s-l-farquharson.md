@@ -3,29 +3,60 @@ Author: Robert Frost
 Year: 1916  
 Language: English  
 
-Two roads diverged in a yellow wood,  
-And sorry I could not travel both  
-And be one traveler, long I stood  
-And looked down one as far as I could  
-To where it bent in the undergrowth;  
+From my grandfather Verus: the lessons of noble character and even temper. 
 
 ---
-Then took the other, as just as fair  
-And having perhaps the better claim,  
-Because it was grassy and wanted wear;  
-Though as for that the passing there  
-Had worn them really about the same,  
+From my father's reputation and my memory of him: modesty and manliness. 
 
 ---
-And both that morning equally lay  
-In leaves no step had trodden black.  
-Oh, I kept the first for another day!  
-Yet knowing how way leads on to way,  
-I doubted if I should ever come back.  
+From my mother: piety and bountifulness, to keep myself not only from doing evil but even from dwelling on evil thoughts, simplicity too in diet and to be far removed from the ways of the rich.
 
 ---
-I shall be telling this with a sigh  
-Somewhere ages and ages hence:  
-Two roads diverged in a wood, and I —  
-I took the one less traveled by,  
-And that has made all the difference.
+From my mother's grandfather: not to have attended public schools but enjoyed good teachers at home, and to have learned the lesson that on things like these it is a duty to spend liberally.
+
+---
+From my tutor: not to become a partisan of the Green jacket or the Blue in the races, nor of Thracian or Samnite gladiators; to bear pain and be content with little; to work with my own hands, to mind my own business, and to be slow to listen to slander.
+
+---
+From Diognetus: to avoid idle enthusiasms; to disbelieve the professions of sorcerers and impostors about incantations and exorcism of spirits and the like; not to cock-fight or to be excited about such sports; to put up with plain-speaking and to become familiar with philosophy; to hear the lectures first of Baccheius, then of Tandasis and Marcian, in boyhood to write essays and to aspire to the camp-bed and skin coverlet and the other things which are part of the Greek training.
+
+---
+From Rusticus: to get an impression of need for reform and treatment of character; not to run off into zeal for rhetoric, writing on speculative themes, discoursing on edifying texts, exhibiting in fanciful colours the ascetic or the philanthropist. To avoid oratory, poetry, and preciosity; not to parade at home in ceremonial costume or to do things of that kind; to write letters in the simple style, like his own from Sinuessa to my mother. To be easily recalled to myself and easily reconciled with those who provoke and offend, as soon as they are willing to meet me. To read books accurately and not be satisfied with superficial thinking about things or agree hurriedly with those who talk
+round a subject. To have made the acquaintance of the Discourses of Epictetus, of which he allowed me to share a copy of his own.
+
+---
+From Apollonius: moral freedom, not to expose oneself to the insecurity of fortune; to look to nothing else, even for a little while, except to reason. To be always the same, in sharp attacks of pain, in the loss of a child, in long illnesses. To see clearly in a living example that a man can be at once very much in earnest and yet able to relax.
+
+Not to be censorious in exposition; and to see a man who plainly considered technical knowledge and ease in communicating general truths as the least of his good gifts. The lesson how one ought to receive from friends what are esteemed favours, neither lowering oneself on their account, nor returning them tactlessly.
+
+---
+From Sextus: graciousness, and the pattern of a household governed by its head, and the notion of life according to Nature. Dignity without pretence, solicitous consideration for friends, tolerance of amateurs and of those whose opinions have no ground in science.
+A happy accommodation to every man, so that not only was his conversation more agreeable than any flattery, but
+he excited the greatest reverence at that very time in the very persons about him. Certainty of grasp, and method in
+the discovery and arrangement of the principles necessary to human life.
+Never to give the impression of anger or of any other passion, but to be at once entirely passionless and yet full of
+natural affection. To praise without noise, to be widely learned without display.
+
+---
+From Alexander the grammarian: to avoid fault-finding and not to censure in a carping spirit any who employ an exotic phrase, a solecism, or harsh expression, but oneself to use, neatly and precisely, the correct phrase, by way of answer or confirmation or handling of the actual question—the thing, not its verbal expression—or by some other equally happy reminder.
+
+---
+From Fronto: to observe how vile a thing is the malice and caprice and hypocrisy of absolutism; and generally speaking that those whom we entitle 'Patricians' are somehow rather wanting in the natural affections.
+
+---
+From Alexander the Platonist: seldom and only when absolutely necessary to say to any one or write in a letter: 'I am too busy'; nor by such a turn of phrase to evade continually the duties incident to our relations to those who live with us, on the plea of 'present circumstances'.
+
+---
+From Catulus: not to neglect a friend's remonstrance, even if he may be unreasonable in his remonstrance, but to endeavour to restore him to his usual temper. Hearty praise, too, of teachers, like what is recorded of Athenodotus and Domitius, and genuine love towards children.
+
+---
+From Severus: love of family, love of truth, and love of justice. To have got by his help to understand Thrasea, Helvidius, Cato, Dio, Brutus, and to conceive the idea of a commonwealth based on equity and freedom of speech, and of a monarchy cherishing above all the liberty of the subject. From him, too, consistency and uniformity in regard for philosophy; to do good, to communicate liberally, to be hopeful; to believe in the affection of friends and to use no concealment towards those who incurred his censure, and that his friends had no necessity to conjecture his wishes or the reverse, but he was open with them.
+
+---
+From Maximus: mastery of self and vacillation in nothing; cheerfulness in all circumstances and especially in illness. A happy blend of character, mildness with dignity, readiness to do without complaining what is given to be done. To see how in his case every one believed 'he really thinks what he says, and what he does, he does without evil intent'; not to be surprised or alarmed; nowhere to be in a hurry or to procrastinate, not to lack resource or to be depressed or cringing or on the other hand angered or suspicious. To be generous, forgiving, void of deceit. To give the impression of inflexible rectitude rather than of one who is corrected. The fact, too, that no one would ever have dreamt that he was looked down on by him or would have endured to conceive himself to be his superior. To be agreeable also (in social life).
+
+---
+From my father (by adoption): gentleness and unshaken resolution in judgements taken after full examination; no vainglory about external honours; love of work and perseverance; readiness to hear those who had anything to contribute to the public advantage; the desire to award to every man according to desert without partiality; the experience that knew where to tighten the rein, where to relax. Prohibition of unnatural practices, social tact and permission to his suite not invariably to be present at his banquets nor to attend his progress from Rome, as a matter of obligation, and always to be found the same by those who had failed to attend him through engagements. Exact scrutiny in council and patience; not that he was avoiding investigation, satisfied with first impressions. An inclination to keep his friends, and nowhere fastidious or the victim of manias but his own master in everything, and his outward mien cheerful. His long foresight and ordering of the merest trifle without making scenes. The check in his reign put upon organized applause and every form of lip-service; his unceasing watch over the needs of the empire and his stewardship of its resources; his patience under criticism by individuals of such conduct. No superstitious fear of divine powers nor with man any courting of the public or obsequiousness or cultivation of popular favour, but temperance in all things and firmness; nowhere want of taste or search for novelty. In the things which contribute to life's comfort, where Fortune was lavish to him, use without display and at the same time without apology, so as to take them when they were there quite simply and not to require them when they were absent. The fact that no one would have said that he was a sophist, an impostor, or a pedant, but a ripe man, an entire man, above flattery, able to preside over his own and his subjects' business. Besides all this the inclination to respect genuine followers of philosophy, but towards the other sort no tendency to reproach nor on the other hand to be hoodwinked by them; affability, too, and humour, but not to excess. Care of his health in moderation, not as one in love with living nor with an eye to personal appearance nor on the other hand neglecting it, but so far as by attention to self to need doctoring or medicine and external applications for very few ailments. A very strong point, to give way without jealousy to those who had some particular gift like literary expression or knowledge of the Civil Law or customs or other matters, even sharing their enthusiasm that each might get the reputation due to his individual excellence. Acting always according to the tradition of our forefathers, yet not endeavouring that this regard for tradition should be noticed. No tendency, moreover, to chop and change, but a settled course in the same places and the same practices. After acute attacks of headache, fresh and vigorous at once for his accustomed duties; and not to have many secrets, only very few and by way of exception, and those solely because of matters of State. Discretion and moderation alike in the provision of shows, in carrying out public works, in donations to the populace, and so on; the behaviour in fact of one who has an eye precisely to what it is his duty to do, not to the reputation which attends the doing. He was not one who bathed at odd hours, not fond of building, no connoisseur of the table, of the stuff and colour of his dress, of the beauty of his slaves. His costume was brought to Rome from his country house at Lorium; his manner of life at Lanuvium; the way he treated the tax-collector who apologized at Tusculum, and all his behaviour of that sort. Nowhere harsh, merciless, or blustering, nor so that you might ever say 'to fever heat', but everything nicely calculated and divided into its times, as by a leisured man; no bustle, complete order, strength, consistency. What is recorded of Socrates would exactly fit him: he could equally be abstinent from or enjoy what many are too weak to abstain from and too self-indulgent in enjoying. To be strong, to endure, and in either case to be sober belong to the man of perfect and invincible spirit, like the spirit of Maximus in his illness.
+
+---
+From my father (by adoption): gentleness and unshaken resolution in judgements taken after full examination; no vainglory about external honours; love of work and perseverance; readiness to hear those who had anything to contribute to the public advantage; the desire to award to every man according to desert without partiality; the experience that knew where to tighten the rein, where to relax. Prohibition of unnatural practices, social tact and permission to his suite not invariably to be present at his banquets nor to attend his progress from Rome, as a matter of obligation, and always to be found the same by those who had failed to attend him through engagements. Exact scrutiny in council and patience; not that he was avoiding investigation, satisfied with first impressions. An inclination to keep his friends, and nowhere fastidious or the victim of manias but his own master in everything, and his outward mien cheerful. His long foresight and ordering of the merest trifle without making scenes. The check in his reign put upon organized applause and every form of lip-service; his unceasing watch over the needs of the empire and his stewardship of its resources; his patience under criticism by individuals of such conduct. No superstitious fear of divine powers nor with man any courting of the public or obsequiousness or cultivation of popular favour, but temperance in all things and firmness; nowhere want of taste or search for novelty. In the things which contribute to life's comfort, where Fortune was lavish to him, use without display and at the same time without apology, so as to take them when they were there quite simply and not to require them when they were absent. The fact that no one would have said that he was a sophist, an impostor, or a pedant, but a ripe man, an entire man, above flattery, able to preside over his own and his subjects' business. Besides all this the inclination to respect genuine followers of philosophy, but towards the other sort no tendency to reproach nor on the other hand to be hoodwinked by them; affability, too, and humour, but not to excess. Care of his health in moderation, not as one in love with living nor with an eye to personal appearance nor on the other hand neglecting it, but so far as by attention to self to need doctoring or medicine and external applications for very few ailments. A very strong point, to give way without jealousy to those who had some particular gift like literary expression or knowledge of the Civil Law or customs or other matters, even sharing their enthusiasm that each might get the reputation due to his individual excellence. Acting always according to the tradition of our forefathers, yet not endeavouring that this regard for tradition should be noticed. No tendency, moreover, to chop and change, but a settled course in the same places and the same practices. After acute attacks of headache, fresh and vigorous at once for his accustomed duties; and not to have many secrets, only very few and by way of exception, and those solely because of matters of State. Discretion and moderation alike in the provision of shows, in carrying out public works, in donations to the populace, and so on; the behaviour in fact of one who has an eye precisely to what it is his duty to do, not to the reputation which attends the doing. He was not one who bathed at odd hours, not fond of building, no connoisseur of the table, of the stuff and colour of his dress, of the beauty of his slaves. His costume was brought to Rome from his country house at Lorium; his manner of life at Lanuvium; the way he treated the tax-collector who apologized at Tusculum, and all his behaviour of that sort. Nowhere harsh, merciless, or blustering, nor so that you might ever say 'to fever heat', but everything nicely calculated and divided into its times, as by a leisured man; no bustle, complete order, strength, consistency. What is recorded of Socrates would exactly fit him: he could equally be abstinent from or enjoy what many are too weak to abstain from and too self-indulgent in enjoying. To be strong, to endure, and in either case to be sober belong to the man of perfect and invincible spirit, like the spirit of Maximus in his illness.
