@@ -1,3 +1,4 @@
+
 Title: Meditations - A New Translation  
 Author: Gregory Hays  
 Year: 2002  
