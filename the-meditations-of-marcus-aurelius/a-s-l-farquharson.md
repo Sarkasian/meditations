@@ -1,4 +1,4 @@
-Title: THE MEDITATIONS OF THE EMPEROR MARCUS ANTONINUS  
+Title: The Meditations of the Emperor Marcus Antoninus  
 Author: Arthur Farquharson  
 Year: 1944  
 
