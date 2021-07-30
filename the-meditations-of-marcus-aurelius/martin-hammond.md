@@ -1,6 +1,6 @@
 Title: Meditations  
 Author: Martin Hammond  
-Year: 2006   
+Year: 2006  
 
 From my grandfather Verus: decency and a mild temper. 
 
