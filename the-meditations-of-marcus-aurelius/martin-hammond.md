@@ -1,6 +1,6 @@
-Title: The Road Not Taken  
-Author: Robert Frost  
-Year: 1916   
+Title: Meditations  
+Author: Martin Hammond  
+Year: 2006   
 
 From my grandfather Verus: decency and a mild temper. 
 
